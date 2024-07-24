@@ -1,5 +1,4 @@
-#digit_predict
-# AI-Digit-Classifier
+# digit_predict
 
 ## Overview
 This project is developed for an edtech startup to demonstrate how neural networks work by classifying handwritten digits. The tool allows users to draw a digit or choose a random digit from a dataset and predicts if it matches a digit between 0 and 9 using a deep learning model.
@@ -20,11 +19,11 @@ This project is developed for an edtech startup to demonstrate how neural networ
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/AI-Digit-Classifier.git
+    git clone https://github.com/adibk/digit_predict.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd AI-Digit-Classifier
+    cd digit_predict
     ```
 3. Install the required packages:
     ```sh
